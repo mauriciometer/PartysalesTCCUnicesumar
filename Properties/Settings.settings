@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PartySalesTUCG.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ChavePix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">32302669000124</Value>
+    </Setting>
+    <Setting Name="BancoDados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEMP\PartySalesTUCCG.accdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

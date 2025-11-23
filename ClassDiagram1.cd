@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PartySalesTUCG.ClassLib.Pessoa">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAIAACAAAQAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ClassLib\Conta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.ClassLib.TUCGDataAcess">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAABAAAMBEABAAAQAABAAAgAAAIAABAQhAoAAEAAAA=</HashCode>
+      <FileName>ClassLib\TUCGDataAcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.ClassLib.Globals">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEEAAAACAAQIQAAAACAAAAAABAAAAEJATIAAAQCAAA=</HashCode>
+      <FileName>ClassLib\VariaveisGlobais.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.ClassLib.Venda">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAMAQAEIAAAAAAAABAAAEAAAkAEAIAAAACAAA=</HashCode>
+      <FileName>ClassLib\Venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.ClassLib.ItensVenda">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAoAAAAAACEAAAAAAAAAAgAAAQAAAAAA=</HashCode>
+      <FileName>ClassLib\Venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.ClassLib.Pagamento">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABASAAABAAAAQAAAUAAABAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ClassLib\Venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.ClassLib.Conta">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAAAAAAABAACAAAAAEEAAAAAkAAAAAAAEAAAA=</HashCode>
+      <FileName>ClassLib\Venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmCadPessoa">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAoCAAgBACAACAAAACABAAAAABAKAAgAEAAAA=</HashCode>
+      <FileName>FrmCadPessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmCaixa">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AmpAADAABCQAADANACioABBKhtARADgAGigAAAGAoAA=</HashCode>
+      <FileName>FrmCaixa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmConta">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAIAIAgDBSAhIBBAkiCIAAICABgBAAIAACIAQQmKgAA=</HashCode>
+      <FileName>FrmConta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmDinheiro">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACABCAAAAJgAgCAAAAHAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>FrmDinheiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmInicio">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACQCICAMiCEABCAAACAAAgDACAABAAAAAQAAAQCAwA=</HashCode>
+      <FileName>FrmInicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmItensVenda">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIBAAQBRCARklFFgAGAAAIGABAgEIFQACDIIIEBDYQ=</HashCode>
+      <FileName>FrmItensVenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmPartySales">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FICACA0ABCAAEAECCCCUAAMCgACBCECACAgBAwACAAA=</HashCode>
+      <FileName>FrmPartySales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmPgConta">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBKACCBSAKAhBAEgCAAAICAAgAAAIAEEAAAAgAAQI=</HashCode>
+      <FileName>FrmPgConta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmPix">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQCABCAAAAAgAECAAAAHAAAABAAAAAgAAIACAQA=</HashCode>
+      <FileName>FrmPix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartySalesTUCG.FrmVendas">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARoQABCBEmQAEDQA2QCIpIAGAAUAQDAIACABQACJIQA=</HashCode>
+      <FileName>FrmVendas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

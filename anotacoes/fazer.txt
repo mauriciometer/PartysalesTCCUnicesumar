@@ -1,0 +1,7 @@
+﻿- manipulação do cadastro de itens ok
+- manipulação do cadastro de festas 
+- tela para credito na conta
+- demonstração extrato da conta
+- demonstração lista de vendas
+- demonstração resumo de vendas
+- view com o saldo da conta 
